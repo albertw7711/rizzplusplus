@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on April 15, 2023 at 12:56 pm by All in One SEO v4.3.5.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=post"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/explore/]]></loc>
+		<lastmod><![CDATA[2023-04-15T11:13:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/what-to-do-when-my-friend-betrayed-my-trust/]]></loc>
+		<lastmod><![CDATA[2023-04-15T12:00:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/consent/]]></loc>
+		<lastmod><![CDATA[2023-04-15T11:58:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/04/consent-e1681450941485.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/04/consent.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/friendzone/]]></loc>
+		<lastmod><![CDATA[2023-04-15T11:38:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/04/friendzone-e1681450964105.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/04/friendzone.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/04/platonic.jpeg]]></image:loc>
+		</image:image>
+	</url>
+</urlset>
